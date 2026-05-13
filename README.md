@@ -47,7 +47,7 @@ Análisis exploratorio de 558,837 registros de subastas de vehículos usados en 
 
 ---
 
-## 🔄 Proceso de análisis
+##  Proceso de análisis
 
 ### 1. Limpieza de datos
 - Eliminación de registros con valores nulos en `sellingprice` y `mmr`
@@ -90,4 +90,31 @@ del valor de mercado (+$50 promedio).
 
 ---
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
+used-car-auction-analysis/
+│
+├── Cars_prices.xlsx   # Archivo principal con dashboard
+├── dashboard_screenshot.png     # Captura del dashboard
+└── README.md                    # Este archivo
+
+## Dashboard
+
+> Filtros interactivos disponibles por **Año** (2014/2015) 
+> y **Condición** del vehículo (Muy baja → Excelente)
+
+![Dashboard Preview](dashboard_screenshot.png)
+
+---
+
+## 👤 Autor
+
+**Ana Lozano**  
+Analista de Datos  
+[LinkedIn](www.linkedin.com/in/ac-lozano) · 
+[Kaggle](https://www.kaggle.com/analozano11)
+
+---
+
+*Dataset original: 
+[Vehicle Sales Data – Kaggle]
+(https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data)* 
