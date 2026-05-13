@@ -102,7 +102,7 @@ used-car-auction-analysis/
 > Filtros interactivos disponibles por **Año** (2014/2015) 
 > y **Condición** del vehículo (Muy baja → Excelente)
 
-![Dashboard Preview](dashboard_screenshot.png)
+<img width="1173" height="127" alt="image" src="https://github.com/user-attachments/assets/68c39d98-d751-46db-9aff-753157406bf2" />
 
 ---
 
