@@ -111,7 +111,7 @@ tablas dinámicas + datos) está disponible en Google Drive:
 
 **Ana Lozano**  
 Analista de Datos  
-[LinkedIn](www.linkedin.com/in/ac-lozano) · 
+[LinkedIn]((https://www.linkedin.com/in/ac-lozano/)) · 
 [Kaggle](https://www.kaggle.com/analozano11)
 
 ---
