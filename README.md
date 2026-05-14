@@ -1,5 +1,4 @@
-# Used-car-auction-analysis
-## 2014–2015
+# Used-car-auction-analysis 2014–2015
 
 Análisis exploratorio de 558,837 registros de subastas de vehículos usados en Estados Unidos, identificando patrones de precio, depreciación y comportamiento del mercado.
 
