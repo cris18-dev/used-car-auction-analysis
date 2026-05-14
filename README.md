@@ -91,18 +91,20 @@ del valor de mercado (+$50 promedio).
 ---
 
 ## Estructura del repositorio
+
 used-car-auction-analysis/
 │
-├── Cars_prices.xlsx   # Archivo principal con dashboard
-├── dashboard_screenshot.png     # Captura del dashboard
 └── README.md                    # Este archivo
 
-## Dashboard
+## Archivo del proyecto
 
-> Filtros interactivos disponibles por **Año** (2014/2015) 
-> y **Condición** del vehículo (Muy baja → Excelente)
+El archivo Excel completo (dashboard interactivo + 
+tablas dinámicas + datos) está disponible en Google Drive:
 
-<img width="1173" height="127" alt="image" src="https://github.com/user-attachments/assets/68c39d98-d751-46db-9aff-753157406bf2" />
+👉 [Descargar archivo Excel](https://drive.google.com/drive/folders/1K1WG5Um40yiVI6_sj6Tj0VQdEKiWAVWf?usp=sharing)
+
+> Incluye: datos fuente, 3 hojas de pivot tables 
+> y dashboard interactivo con slicers.
 
 ---
 
